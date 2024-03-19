@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (War Room)">14f9618997094250686472121153af60</button>
+        <item_parameter display_value="War Room description">d8f9618997094250686472121153af5d</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-18 07:47:16</sys_created_on>
+        <sys_id>9cf9618997094250686472121153af64</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d8f9618997094250686472121153af5d</sys_name>
+        <sys_package display_value="Orange Delivery" source="x_815438_orange_de">d7e8a1c197094250686472121153afb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Orange Delivery">d7e8a1c197094250686472121153afb8</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_9cf9618997094250686472121153af64</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-18 07:47:16</sys_updated_on>
+        <ui_parameter display_value="Description">58f9618997094250686472121153af61</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

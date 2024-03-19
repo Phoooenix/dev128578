@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <max_offline_rows>500</max_offline_rows>
+        <name>Task Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="Tasks">f7e9218997094250686472121153afb9</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-18 07:47:14</sys_created_on>
+        <sys_id>88f9218997094250686472121153afbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task Item Stream Segment</sys_name>
+        <sys_package display_value="Orange Delivery" source="x_815438_orange_de">d7e8a1c197094250686472121153afb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Orange Delivery">d7e8a1c197094250686472121153afb8</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_88f9218997094250686472121153afbc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-18 07:47:14</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

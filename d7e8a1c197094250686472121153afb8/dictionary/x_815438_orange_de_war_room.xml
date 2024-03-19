@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7dc96d4997094250686472121153af0a" extends="task" label="War Room" max_length="40" name="x_815438_orange_de_war_room" type="collection">
+        <element label="Escalation Matrix" max_length="40" name="escalation_matrix" type="boolean"/>
+    </element>
+</database>

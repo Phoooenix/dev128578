@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">8f8574397d31311076daf29f52070d14</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-18 07:46:33</sys_created_on>
+        <sys_id>f9c96d4997094250686472121153af6e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Orange Delivery" source="x_815438_orange_de">d7e8a1c197094250686472121153afb8</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-18 07:46:33</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

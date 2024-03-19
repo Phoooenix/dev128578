@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Task state</name>
+        <parent>c0f9218997094250686472121153afc5</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-18 07:47:14</sys_created_on>
+        <sys_id>44f9218997094250686472121153afc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task state</sys_name>
+        <sys_package display_value="Orange Delivery" source="x_815438_orange_de">d7e8a1c197094250686472121153afb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Orange Delivery">d7e8a1c197094250686472121153afb8</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_44f9218997094250686472121153afc6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-18 07:47:14</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

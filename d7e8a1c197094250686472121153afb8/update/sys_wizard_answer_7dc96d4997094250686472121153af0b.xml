@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>War Room</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>War Room</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">4b8574397d31311076daf29f52070d17</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-18 07:46:33</sys_created_on>
+        <sys_id>7dc96d4997094250686472121153af0b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>War Room</sys_name>
+        <sys_package display_value="Orange Delivery" source="x_815438_orange_de">d7e8a1c197094250686472121153afb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Orange Delivery">d7e8a1c197094250686472121153afb8</sys_scope>
+        <sys_update_name>sys_wizard_answer_7dc96d4997094250686472121153af0b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-18 07:46:33</sys_updated_on>
+        <table/>
+        <target_url>x_815438_orange_de_war_room.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
